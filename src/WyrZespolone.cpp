@@ -1,5 +1,3 @@
-#include <iostream>
-#include "../inc/LiczbaZespolona.hh"
 #include "../inc/WyrZespolone.hh"
 
 WyrZespolone::WyrZespolone()

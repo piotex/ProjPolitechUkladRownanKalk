@@ -1,11 +1,10 @@
 #ifndef WEKTOR_HH
 #define WEKTOR_HH
 
+#include <math.h>
 #include "../inc/Rozmiar.hh"
 #include<iostream>
-// #include "../inc/LiczbaZespolona.hh"
-// #include "../inc/Operacje.hh"
-
+#include "LiczbaZespolona.hh"
 
 template<class TYP, int _ROZMIAR>
 class Wektor {

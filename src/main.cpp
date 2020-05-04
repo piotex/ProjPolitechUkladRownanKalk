@@ -1,12 +1,6 @@
 #include<iostream>
 #include <fstream>
-#include "../inc/Errors.hh"
 #include "../inc/LiczbaZespolona.hh"
-#include "../inc/BazaTestu.hh"
-#include "../inc/WyrZespolone.hh"
-#include "../inc/Wektor.hh"
-#include "../inc/MacierzKw.hh"
-#include "../inc/StatystykaLiczbZespolonych.hh"
 #include "../inc/UkladRownan.hh"
 
 int main(int argc, char **argv)

@@ -5,7 +5,6 @@
 #include "../inc/LiczbaZespolona.hh"
 #include "../inc/Operacje.hh"
 
-
 class WyrZespolone 
 {      
     LiczbaZespolona liczba1;

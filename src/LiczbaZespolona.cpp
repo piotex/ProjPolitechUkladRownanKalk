@@ -1,8 +1,5 @@
 #include "../inc/LiczbaZespolona.hh"
-#include "../inc/Errors.hh"
-#include "../inc/Rozmiar.hh"
-#include <iostream>
-#include <cmath>
+using std::abs;
 
 //----------------------------------------------------------------------------------konstruktor---------------------------------
 LiczbaZespolona::LiczbaZespolona():re{0},im{0}{}

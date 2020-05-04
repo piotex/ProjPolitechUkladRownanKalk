@@ -1,9 +1,9 @@
 #ifndef UKLAD_ROWNAN_L
 #define UKLAD_ROWNAN_L
 
+#include <math.h>
 #include "Wektor.hh"
 #include "MacierzKw.hh"
-#include "LiczbaZespolona.hh"
 
 template<class _TYP, int _ROZMIAR>
 class UkladRownanL {

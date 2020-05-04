@@ -1,7 +1,4 @@
 #include "Wektor.hh"
-#include "LiczbaZespolona.hh"
-#include <math.h>
-
 
 //-----------------------------------------------------------------konstruktory------------------------------------------------//
 template<class TYP, int _ROZMIAR>

@@ -1,5 +1,3 @@
-#include<iostream>
-
 #include "../inc/Operacje.hh"
 
 std::istream& operator>> (std::istream &strm, Operacja& op)

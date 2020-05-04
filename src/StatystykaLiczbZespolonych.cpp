@@ -1,7 +1,5 @@
 #include "../inc/StatystykaLiczbZespolonych.hh"
 
-#include<iostream>
-
 Statystyka::Statystyka()
 {
   reset();  

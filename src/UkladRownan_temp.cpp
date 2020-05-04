@@ -1,6 +1,5 @@
 #include "UkladRownan.cpp"
 #include "../inc/LiczbaZespolona.hh"
-#include <math.h>
 
 template class UkladRownanL<double,ROZMIAR>;
 template std::istream & operator>>(std::istream &strm, UkladRownanL<double,ROZMIAR> &W);

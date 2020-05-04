@@ -1,6 +1,5 @@
 #include "Wektor.cpp"
 #include "../inc/LiczbaZespolona.hh"
-#include <math.h>
 
 typedef double TYP;
 typedef LiczbaZespolona TYP2;

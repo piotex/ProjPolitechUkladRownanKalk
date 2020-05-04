@@ -1,10 +1,4 @@
 #include "MacierzKw.hh"
-#include "Wektor.hh"
-#include "LiczbaZespolona.hh"
-#include <math.h>
-#include <iostream>
-#include <iomanip>
-#include <cmath>
 
 template<class _TYP, int _ROZMIAR>
 MacierzKw<_TYP,_ROZMIAR>::MacierzKw()

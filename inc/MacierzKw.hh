@@ -1,10 +1,12 @@
 #ifndef MACIERZKW_HH
 #define MACIERZKW_HH
 
-#include<iostream>
-#include "../inc/Rozmiar.hh"
-#include "../inc/Wektor.hh"
-// #include "../inc/Operacje.hh"
+#include <math.h>
+#include <iostream>
+#include <iomanip>
+#include <cmath>
+
+#include "Wektor.hh"
 
 enum Metoda_Obl_Wyznacznika {Sarrus, Laplace, Gauss};
 

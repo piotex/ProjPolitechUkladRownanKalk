@@ -2,6 +2,9 @@
 #define LZESPOLONA_HH
 
 #include<iostream>
+#include <iostream>
+#include <cmath>
+#include "../inc/Rozmiar.hh"
 
 class LiczbaZespolona {    
 
